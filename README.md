@@ -1,4 +1,4 @@
 # SQL_Labs
 Study and practie coding SQL using Microsoft SQL Server
-Will be update until i finish this semester
-Last modified since: 13/01/2022
+Will be updated until i finish this semester in a few days
+Last updated: 13/01/2022 
